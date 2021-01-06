@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size:30px;
+}
+.name-highlight{
+    color:#FF8367;
+}
+.intro{
+    float:left;
+    width:40%;
+    margin-left:5%;
+    margin-top:2%;
+    
+}
+.intro img {
+    width:50%;
+}
+
+.button{
+    text-decoration:none;
+    background-color:#F86B61;
+    padding:10px 20px;
+    border-radius:5px;
+    color:white;
+    display:inline-block;
+    margin-top:20px;
+}
